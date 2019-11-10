@@ -7,7 +7,7 @@ It is called Collatz birb because it looks like a chicken (depending on the rota
 
 This visualization is made by looking at 3 consecutive numbers in the sequence and rotating about an axes based on the parity of the number.
 The first number will rotate around the X axis, the second around the Y axis and the third around the Z axis.
-The angles are chosen to be the same as the ones used in the Numberphile video, namely `PI/13` when even and `-PI/20` when odd.
+The angles are chosen to be the same as the ones used in the Numberphile video, namely `PI/13` when even and `-PI/20` when odd. The colors gets brighter for even numbers and less bright when the number is odd (red for rotation around the X axis, green for Y axis and blue for Z axis).
 
 Interestingly enough, when choosing equal angles for odd and even rotation, you still get more rotation in one direction, which would indicate that there are more even numbers than odd numbers (did not check this, just an assumption).
 
