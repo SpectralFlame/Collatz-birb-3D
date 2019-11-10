@@ -1,7 +1,7 @@
 # Collatz birb 3D
 A visualization of the collatz conjecture in 3D (using PeasyCam)
 
-It is called Collatz birb because it looks like a chicken (depending on the rotation, the rotation is set so that it shows the chicken on startup)
+It is called Collatz birb because it looks like a chicken or an eagle (This can only be seen from some angles, the rotation is set so that it shows the chicken/eagle on startup)
 
 ![collatz-chick](https://i.imgur.com/oAxArLX.png "calculated using N=100,000")
 
